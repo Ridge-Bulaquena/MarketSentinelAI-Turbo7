@@ -1,0 +1,8 @@
+{
+  "name": "MarketSentinel AI",
+  "description": "An autonomous market intelligence platform for competitor tracking, pricing intelligence, and predictive investment forecasting using Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
